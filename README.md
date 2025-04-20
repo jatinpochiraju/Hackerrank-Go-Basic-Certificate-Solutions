@@ -10,6 +10,6 @@ This repository contains solutions to the HackerRank Go (Basic) Certificate chal
 
 ## 📂 Contents
 
-- **String_Operations.go**:Implements a function that trims spaces, removes digits, and reverses a string
-- **JSON_Encoding.go**:Defines a `Manager` struct and provides a function to encode it into JSON, omitting empty fields
+- **String_Operations.go**: Implements a function that trims spaces, removes digits, and reverses a string
+- **JSON_Encoding.go**: Defines a `Manager` struct and provides a function to encode it into JSON, omitting empty fields.
 
