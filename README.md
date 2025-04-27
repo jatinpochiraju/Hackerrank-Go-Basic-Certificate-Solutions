@@ -1,8 +1,3 @@
-# Hackerrank-Go-Basic-Certificate-Solutions
-
-Certainly! Here's a README for the GitHub repository: [Hackerrank-Go-Basic-Certificate-Solutions](https://github.com/jatinpochiraju/Hackerrank-Go-Basic-Certificate-Solutions/tree/main).
-
----
 
 # Hackerrank Go Basic Certificate Solutions
 
